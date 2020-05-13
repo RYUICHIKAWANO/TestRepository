@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-	cout << "End of the World" << endl;
+	cout << "Motal Combat" << endl;
 }
